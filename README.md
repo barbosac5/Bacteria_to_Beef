@@ -12,7 +12,7 @@ As part of Deliverable 1, I made a bar graph showing the top 10 bacterial specie
 To compliment the Bar Chart, a bubble chart was also created to compliment the bar chart. The bubble chart's purpose is to display the Bacteria Cultures Per Sample when a volunteer's id is selected.
 
 ### Bubble Chart 
-![Bubble_Chart](./js/Bubble_Chartp.png)
+![Bubble_Chart](./js/Bubble_Chart.png)
 
 ## Deliverable 3 (Creating the Gauge Chart)
 For Deliverable 3, I was tasked to create a gauge chart that displayes the weekly washing frequency, and display the value as a measure from 0-10 on the progress bar. The bar chart would update based on the volunteer that was selected from the drop down. The gauge would compliment both the bar and bubble chart.
@@ -29,6 +29,13 @@ In order to better the webpage. I have made the following custom additions.
 - Changed the background of the webpage in order to match the image of the jumbotron.
 
 - Changed the sizes of the gauge and bubble chart.
+
+### Look of the Webpage
+#### Default 
+![Default_Page](./js/Default_Page.png)
+
+#### Filtered
+![Filtered_Page](./js/Filtered_Page.png)
 
 # Resources
 - Javascript
